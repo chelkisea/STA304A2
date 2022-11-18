@@ -1,6 +1,6 @@
 ---
 title: "Informative Title Name"
-author: "GROUP NUMBER: ADD YOUR NAMES HERE"
+author: "GROUP 1: ADD YOUR NAMES HERE"
 date: November 24, 2022
 subtitle: STA304 - Assignment 2
 output:
